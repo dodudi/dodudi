@@ -11,6 +11,6 @@
 
 <h1>:wrench:My Status!!!:wrench:<h1>
   
-![Epistolas's github stats](https://github-readme-stats.vercel.app/api?username=Epistolas&show_icons=true)
-  [![Epistolas's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Epistolas&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Epistolas)
+![Epistolas's github stats](https://github-readme-stats.vercel.app/api?username=dodudi&show_icons=true)
+  [![dodudi's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dodudi&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/dodudi)
 
