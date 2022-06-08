@@ -1,8 +1,4 @@
-안녕하세요 유니티로 게임 개발을 배우고 있습니다.
-
-취미는 게임이고 다양한 게임을 하고 있습니다. (스포츠 게임은 잘 하지 않아요!)
-
-어렸을 때부터 게임을 즐겨하면서 대학교를 컴퓨터과로 진학을 하였고, 게임 개발에 대해 진지하게 생각하고 공부하고 있습니다.
+안녕하세요 웹 백엔드에 대하여 배우고 있습니다.
 
 <h1>:wrench:Languages:wrench:<h1>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-3DDC84?style=flat-square&logo=CSharp&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
