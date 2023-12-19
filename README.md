@@ -1,7 +1,6 @@
 안녕하세요 웹 백엔드에 대하여 배우고 있습니다.
 
-<h1>:wrench:Languages:wrench:<h1>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+<h1>:wrench:Languages:wrench:<h1><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 <h1>:computer:Tool:computer:<h1>
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/> <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 
