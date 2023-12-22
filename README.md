@@ -1,11 +1,22 @@
-안녕하세요 웹 백엔드에 대하여 배우고 있습니다.
+<h1>Skills</h1>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" align='left'/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" align='left'/>
+<img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white" align='left'/>
+<img src="https://img.shields.io/badge/Jpa-6DB33F?style=flat-square&logo=Java&logoColor=white" align='left'/>
+<img src="https://img.shields.io/badge/Spring Data Jpa-6DB33F?style=flat-square&logo=Spring Data Jpa&logoColor=white" align='left'/><br><br><br>
 
-<h1>:wrench:Skills:wrench:<h1>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Springboot-007396?style=flat-square&logo=springboot&logoColor=white"/>
-<h1>:computer:Tools:computer:<h1>
-<img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-007396?style=flat-square&logo=docker&logoColor=white"/>
-<h1>:wrench:Git Hub Info:wrench:<h1>
-  
-![Epistolas's github stats](https://github-readme-stats.vercel.app/api?username=dodudi&show_icons=true)[![dodudi's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dodudi&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/dodudi)
-<h1>:wrench:Doing Project:wrench:<h1>
-<h6>https://github.com/dodudi/didado-website</h6>
+<h1>:computer:Tools:computer:</h1>
+<img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=GitHub&logoColor=white" align='left'/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" align='left'/> 
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" align='left'/>
+<img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat-square&logo=sourcetree&logoColor=white" align='left'/><br><br><br>
+
+<h1>My Project</h1>
+https://github.com/dodudi/didado-website<br><br><br>
+
+<h1>Git Hub Info</h1>
+
+![Epistolas's github stats](https://github-readme-stats.vercel.app/api?username=dodudi&show_icons=true)
+[![dodudi's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dodudi&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/dodudi)
+
+
