@@ -13,10 +13,11 @@
 
 <h1>My Project</h1>
 https://github.com/dodudi/didado-website<br><br><br>
-
+코드잇 스프린트 프론트엔드 1기 - 백엔드 개발자 프로젝트 참여
+2024.01.15 ~ 2024.02.29
 <h1>Git Hub Info</h1>
 
 ![Epistolas's github stats](https://github-readme-stats.vercel.app/api?username=dodudi&show_icons=true)
 [![dodudi's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dodudi&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/dodudi)
 
-CodeIt 스프린트 1기 백엔드 개발자 프로젝트 참여
+
