@@ -13,7 +13,7 @@
 
 <h1>My Project</h1>
 https://github.com/dodudi/didado-website<br>
-코드잇 스프린트 프론트엔드 1기 - 백엔드 개발자 프로젝트 참여
+코드잇 스프린트 프론트엔드 1기 - 백엔드 개발자 프로젝트 참여 <br>
 2024.01.15 ~ 2024.02.29
 <h1>Git Hub Info</h1>
 
