@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat-square&logo=sourcetree&logoColor=white" align='left'/><br><br><br>
 
 <h1>My Project</h1>
-https://github.com/dodudi/didado-website<br><br><br>
+https://github.com/dodudi/didado-website
 코드잇 스프린트 프론트엔드 1기 - 백엔드 개발자 프로젝트 참여
 2024.01.15 ~ 2024.02.29
 <h1>Git Hub Info</h1>
