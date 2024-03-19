@@ -19,7 +19,7 @@ https://github.com/dodudi/didado-website<br>
 2024.01.15 ~ 2024.02.29  
 
 
-https://github.com/dodudi/didado-website<br>
+[https://github.com/golapadeok/fluo-be](https://github.com/golapadeok/fluo-be)<br>
 코드잇 스프린트 2기 - 백엔드 개발자 프로젝트 참여 <br>
 2024.02.29 ~ 2024.04.08
 <h1>Git Hub Info</h1>
