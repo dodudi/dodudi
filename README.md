@@ -22,7 +22,7 @@
 
 ### 📊 GitHub Stats
 
-![Didadu's GitHub stats](https://github-readme-stats.vercel.app/api?username=dodudi&show_icons=true&theme=radical)
+![Dodudi's GitHub stats](https://github-readme-stats.vercel.app/api?username=dodudi&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dodudi&layout=compact&theme=radical)](https://github.com/dodudi)
 
@@ -34,8 +34,8 @@
 
 ### 📫 How to reach me
 
-- GitHub: [@didadu](https://github.com/didadu)
-- Email: didadu@example.com
+- GitHub: [@dodudi](https://github.com/dodudi)
+- Email: dodudi@example.com
 
 ---
 
