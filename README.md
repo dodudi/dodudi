@@ -20,16 +20,10 @@
 - ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 - ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-### 📊 GitHub Stats
-
-![Dodudi's GitHub stats](https://github-readme-stats.vercel.app/api?username=dodudi&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dodudi&layout=compact&theme=radical)](https://github.com/dodudi)
-
 ### 🚀 Current Focus
 
 - 🔭 멀티 아키텍처(ARM64/AMD64) Docker 이미지 빌드 자동화
-- 🌱 AI 통합 웹 애플리케이션 개발
+- 🌱 Spring, Node.js 를 활용한 웹 애플리케이션 개발
 - 💡 CI/CD 파이프라인 최적화
 
 ### 📫 How to reach me
