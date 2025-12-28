@@ -29,7 +29,7 @@
 ### 📫 How to reach me
 
 - GitHub: [@dodudi](https://github.com/dodudi)
-- Email: dodudi@example.com
+- Email: idejrdud@gmail.com
 
 ---
 
