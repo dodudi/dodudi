@@ -1,9 +1,3 @@
-# Hi there, I'm Didadu 👋
-
-## Full Stack Developer
-
-풀스택 개발자로 웹 애플리케이션 개발과 인프라 자동화에 관심이 많습니다.
-
 ### 🛠 Tech Stack
 
 **Frontend**
