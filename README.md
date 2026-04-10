@@ -58,12 +58,3 @@
   - Email: idejrdud@gmail.com
 
   ---
-
-  💼 **Open to collaboration on interesting projects!**
-
-  ---
-  주요 변경 사항:
-
-  - Tech Stack — Thymeleaf, Spring Cloud, Prisma, Kafka 추가 / 실제 사용하지 않은 Node.js 제거 / Java 버전 명시(21)
-  - Projects 섹션 신규 추가 — 두 프로젝트 핵심 구현 요약 + 사용 스택 뱃지
-  - Current Focus — 실제 프로젝트 기반으로 구체화
